@@ -1,1 +1,1 @@
-'Hello, git!' var1
+'Hello, git!'
